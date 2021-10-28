@@ -1,0 +1,10 @@
+{
+  "qName": "Actual progress",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

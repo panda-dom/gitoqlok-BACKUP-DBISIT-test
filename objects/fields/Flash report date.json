@@ -1,0 +1,10 @@
+{
+  "qName": "Flash report date",
+  "qTags": [
+    "$numeric",
+    "$timestamp"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

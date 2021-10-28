@@ -1,0 +1,10 @@
+{
+  "qName": "Status",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

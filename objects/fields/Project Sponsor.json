@@ -1,0 +1,10 @@
+{
+  "qName": "Project Sponsor",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

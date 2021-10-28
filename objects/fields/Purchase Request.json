@@ -1,0 +1,10 @@
+{
+  "qName": "Purchase Request",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

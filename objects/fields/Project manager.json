@@ -1,0 +1,10 @@
+{
+  "qName": "Project manager",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

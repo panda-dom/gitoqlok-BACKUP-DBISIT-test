@@ -1,0 +1,9 @@
+{
+  "qName": "Name",
+  "qTags": [
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "d93037c7-7a46-4526-9cf8-dd8091386c23",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "selCode",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

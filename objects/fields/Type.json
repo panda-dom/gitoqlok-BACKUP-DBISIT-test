@@ -1,0 +1,10 @@
+{
+  "qName": "Type",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

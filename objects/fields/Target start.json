@@ -1,0 +1,12 @@
+{
+  "qName": "Target start",
+  "qTags": [
+    "$numeric",
+    "$integer",
+    "$timestamp",
+    "$date"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

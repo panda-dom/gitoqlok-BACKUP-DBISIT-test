@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "a0e4a25d-49e8-409b-8f8a-ebdfb2ebeadf",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "name",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Export orchestra 1",
+  "qIsScriptCreated": true
+}

@@ -1,0 +1,10 @@
+{
+  "qName": "OPEX approval",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

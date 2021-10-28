@@ -1,0 +1,10 @@
+{
+  "qName": "Weather",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

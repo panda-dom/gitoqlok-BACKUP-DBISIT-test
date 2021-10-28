@@ -1,0 +1,10 @@
+{
+  "qName": "Target duration",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

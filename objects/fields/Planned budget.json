@@ -1,0 +1,10 @@
+{
+  "qName": "Planned budget",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

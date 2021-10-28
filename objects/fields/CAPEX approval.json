@@ -1,0 +1,10 @@
+{
+  "qName": "CAPEX approval",
+  "qTags": [
+    "$ascii",
+    "$text"
+  ],
+  "qSrcTables": [
+    "Export orchestra 1"
+  ]
+}

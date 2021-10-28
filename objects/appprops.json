@@ -1,0 +1,28 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "eab90607-d30f-4406-9051-678095e33e25",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": {
+        "color": "#26a0a7",
+        "index": 12
+      },
+      "sheetTitleGradientColor": {
+        "color": "#f9ec86",
+        "index": 7
+      },
+      "sheetTitleColor": "#ffffff",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "sheetLogoPosition": "center",
+      "rtl": false,
+      "theme": "breeze",
+      "disableCellNavMenu": false
+    },
+    "qChildren": []
+  }
+]
